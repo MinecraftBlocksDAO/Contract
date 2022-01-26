@@ -1,2 +1,2 @@
-# Contracts
+# Contract
 Minecraft Blocks
